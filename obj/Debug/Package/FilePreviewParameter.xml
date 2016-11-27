@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="bflwebapp1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\TEMP\\Mod05\\AdatumWebsite\\AdatumWebsite\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\TEMP\\Mod05\\AdatumWebsite\\AdatumWebsite\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
